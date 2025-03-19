@@ -21,13 +21,19 @@ Este é um projeto simples para gerenciar e sortear amigos secretos. O código �
 3. **Reiniciar sorteio**:
    - Para recomeçar o sorteio, clique no botão "Reiniciar sorteio" para remover todos os amigos da lista.
 
-## Código
+## Código 
 
 O código JavaScript está estruturado da seguinte forma:
 
 - **adicionarAmigo()**: Adiciona um amigo à lista.
 - **sortearAmigo()**: Sorteia um amigo secreto da lista.
 - **limparLista()**: Recomeça o sorteio e remove os nomes da lista.
+
+## Link
+
+Link do deploy do projeto no **Vercel**.
+
+=> https://amigo-secreto-seven-iota.vercel.app/
 
 ## Exemplo de Uso
 
